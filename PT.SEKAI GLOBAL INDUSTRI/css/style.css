@@ -1,0 +1,88 @@
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: #efefef;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.navbar-brand h1 {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+.nav-link.active {
+  font-weight: 700;
+}
+
+/* chemicals section */
+
+#chemicals {
+  padding: 100px 0;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.sub-tittle {
+  font-size: 36px;
+  font-weight: 500px;
+  color: #ff6c2f;
+}
+
+.card-chemicals {
+  width: 100%;
+  height: 915px;
+  border-radius: 55px;
+  background-color: #ff6000;
+}
+
+.rectangle-icon {
+  width: 482px;
+  height: 447px;
+  border-radius: 43%;
+  position: absolute;
+  padding: 40px;
+}
+
+.rectangle-icon2 {
+  width: 101px;
+  height: 334px;
+}
+
+/* service section */
+
+#service {
+  padding: 100px 0;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.h2-service {
+  font-size: 36px;
+  font-weight: 500;
+  color: #ff6c2f;
+}
+
+.sub-tittle-5 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.rectangle-icon5 {
+  width: 262px;
+  height: 288px;
+  border-radius: 21px;
+  background-color: #ff6c2f;
+}
